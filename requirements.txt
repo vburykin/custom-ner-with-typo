@@ -1,0 +1,6 @@
+nltk~=3.6.1
+fuzzywuzzy~=0.18.0
+
+sentence-transformers
+
+spacy~=3.0.5
